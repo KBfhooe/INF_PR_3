@@ -1,16 +1,5 @@
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
-#
-#Subtask 8.1
-#python code for subtask 7.3
-def BiggestSquare(n):
-    i = 0
-    while(i*i <= n):
-        i += 1
-    i -= 1
-    print(i*i)
-print("Subtask 8.1:")
-#BiggestSquare(55)
+#Subtask 8.2:
+#Code for subtask 7.4
 def ListProperties(x):
     n = 0
     s = 0
