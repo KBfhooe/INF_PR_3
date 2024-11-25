@@ -24,3 +24,4 @@ def ListProperties(x):
         print(m)
 print("Subtask 8.2:")
 #ListProperties([5,0,5,-1])
+# it looks like I learned how to use git today

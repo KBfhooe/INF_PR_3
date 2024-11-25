@@ -7,3 +7,4 @@ def BiggestSquare(n):
     i -= 1
     print(i*i)
 print("Subtask 8.1:")
+# it looks like I learned how to use git today
